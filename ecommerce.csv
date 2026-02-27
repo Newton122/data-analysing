@@ -1,0 +1,11 @@
+OrderID,Date,Customer,Category,Amount
+1001,2023-01-01,Alice,Electronics,1200
+1002,2023-01-01,Bob,Clothing,200
+1003,2023-01-02,Charlie,Electronics,800
+1004,2023-01-02,Alice,Clothing,150
+1005,2023-01-03,Bob,Books,90
+1006,2023-01-03,Charlie,Electronics,600
+1007,2023-01-04,Alice,Books,120
+1008,2023-01-04,Bob,Clothing,250
+1009,2023-01-05,Charlie,Electronics,950
+1010,2023-01-05,Alice,Clothing,300

@@ -1,0 +1,8 @@
+OrderID,Product,Quantity,Price,Date
+1,Laptop,2,1000,2023-01-05
+2,Phone,,500,2023-01-06
+3,Tablet,3,abc,2023-01-07
+4,Headphones,5,50,2023-01-08
+4,Headphones,5,50,2023-01-08
+5,Laptop,1,1000,
+6,Phone,2,500,2023-01-09
